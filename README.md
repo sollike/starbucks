@@ -11,24 +11,30 @@
 [배포 DEMO 👆🏻 확인하기](https://sleepy-volhard-71f60d.netlify.app/)
 
 ![](images/mainpage.png)
-![](images/loginpage.png)
+
+---
+
+![](images/signinpage.png)
 
 # 🛠 적용한 기술들 APIs
 
-[The Open Graph protocol](https://ogp.me/)  
+[The Open Graph protocol](https://ogp.me/):  
 웹페이지가 소셜 미디어(페이스북 등)로 공유될 때 우선적으로 활용되는 정보를 지정  
-[Twitter Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started)  
+[Twitter Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started):  
 웹페이지가 소셜 미디어(트위터)로 공유될 때 우선적으로 활용되는 정보를 지정
 
-적용 결과:
+적용 결과:  
 ![](images/kakao.png)
+
+---
+
 ![](images/slack.png)
 
 ---
 
 <br />
 
-✏️ font : Googlefont-`NanumGothic`
+✏️ font : Googlefont-`NanumGothic`  
 [lodash](https://cdnjs.com/libraries/lodash.js)
 : side badge event를 위해 사용. throttle()로 함수 부하를 조정.
 
@@ -41,9 +47,10 @@ ScrollToPlugin를 사용해 상단으로 이동 버튼 이벤트를 쉽게 처�
 
 [Swiper](https://swiperjs.com/):  
 new Swiper()로 swiper 객체를 생성해 보다 쉽게 슬라이드를 생성하고 처리.  
-`direction, autoplay, loop, slidePerView, spaceBetween, Navigation, pagination..` 여러 변수를 조작할 수 있음.
+`direction, autoplay, loop, slidePerView, spaceBetween, Navigation, pagination..`  
+여러 변수를 조작할 수 있음.
 
-📍 `photocard`배너 생성  
+📍 `photocard` 배너 생성  
 📍 `공지사항` 배너 생성  
 📍 `awards` 슬라이드 배너
 
